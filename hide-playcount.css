@@ -1,0 +1,7 @@
+/* Hide play count on artist pages and track lists */
+.playback-count, 
+.main-trackList-trackCount, 
+.main-trackList-rowSectionVariable, 
+[data-testid="playcount"] {
+  display: none !important;
+}
