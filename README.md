@@ -33,7 +33,7 @@ This tweak hides:
 
 ## 💡 Notes
 This tweak is purely visual.  
-It does not modify Spotify data or functionality — only hides the UI element.
+It does not modify Spotify data or functionality,  only hides the UI element.
 
 ---
 
